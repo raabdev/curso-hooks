@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-hooks/static/css/main.fa985dc7.chunk.css",
+    "main.js": "/curso-hooks/static/js/main.e6a2900c.chunk.js",
+    "main.js.map": "/curso-hooks/static/js/main.e6a2900c.chunk.js.map",
+    "runtime-main.js": "/curso-hooks/static/js/runtime-main.9ab6e0c0.js",
+    "runtime-main.js.map": "/curso-hooks/static/js/runtime-main.9ab6e0c0.js.map",
+    "static/js/2.c3ef9890.chunk.js": "/curso-hooks/static/js/2.c3ef9890.chunk.js",
+    "static/js/2.c3ef9890.chunk.js.map": "/curso-hooks/static/js/2.c3ef9890.chunk.js.map",
+    "static/js/3.a8369e3d.chunk.js": "/curso-hooks/static/js/3.a8369e3d.chunk.js",
+    "static/js/3.a8369e3d.chunk.js.map": "/curso-hooks/static/js/3.a8369e3d.chunk.js.map",
+    "index.html": "/curso-hooks/index.html",
+    "static/css/main.fa985dc7.chunk.css.map": "/curso-hooks/static/css/main.fa985dc7.chunk.css.map",
+    "static/js/2.c3ef9890.chunk.js.LICENSE.txt": "/curso-hooks/static/js/2.c3ef9890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ab6e0c0.js",
+    "static/js/2.c3ef9890.chunk.js",
+    "static/css/main.fa985dc7.chunk.css",
+    "static/js/main.e6a2900c.chunk.js"
+  ]
+}
